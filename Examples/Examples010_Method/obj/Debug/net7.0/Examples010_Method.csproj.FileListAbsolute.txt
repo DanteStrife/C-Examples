@@ -1,0 +1,14 @@
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\Examples010_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\Examples010_Method.AssemblyInfoInputs.cache
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\Examples010_Method.AssemblyInfo.cs
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\Examples010_Method.csproj.CoreCompileInputs.cache
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\bin\Debug\net7.0\Examples010_Method.exe
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\bin\Debug\net7.0\Examples010_Method.deps.json
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\bin\Debug\net7.0\Examples010_Method.runtimeconfig.json
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\bin\Debug\net7.0\Examples010_Method.dll
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\bin\Debug\net7.0\Examples010_Method.pdb
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\Examples010_Method.dll
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\refint\Examples010_Method.dll
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\Examples010_Method.pdb
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\Examples010_Method.genruntimeconfig.cache
+C:\Users\ARS-9\Desktop\C#\Examples\Examples010_Method\obj\Debug\net7.0\ref\Examples010_Method.dll

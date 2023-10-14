@@ -1,0 +1,14 @@
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\bin\Debug\net7.0\Examples011_ArrayLibrari.exe
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\bin\Debug\net7.0\Examples011_ArrayLibrari.deps.json
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\bin\Debug\net7.0\Examples011_ArrayLibrari.runtimeconfig.json
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\bin\Debug\net7.0\Examples011_ArrayLibrari.dll
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\bin\Debug\net7.0\Examples011_ArrayLibrari.pdb
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\Examples011_ArrayLibrari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\Examples011_ArrayLibrari.AssemblyInfoInputs.cache
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\Examples011_ArrayLibrari.AssemblyInfo.cs
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\Examples011_ArrayLibrari.csproj.CoreCompileInputs.cache
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\Examples011_ArrayLibrari.dll
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\refint\Examples011_ArrayLibrari.dll
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\Examples011_ArrayLibrari.pdb
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\Examples011_ArrayLibrari.genruntimeconfig.cache
+C:\Users\ARS-9\Desktop\C#\Examples\Examples011_ArrayLibrari\obj\Debug\net7.0\ref\Examples011_ArrayLibrari.dll
